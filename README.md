@@ -3,7 +3,7 @@
 
 ###
 - 🌱 I’m currently learning ...
-![C](https://github.com/Impuls13/Impuls13/blob/main/screen/c_original_logo_icon_146611.svg)
+![C](https://github.com/Impuls13/Impuls13/blob/main/screen/ci.svg)
 ![Python](https://github.com/Impuls13/Impuls13/blob/main/screen/python_logo_icon_168040.svg)
 ![Docker](https://github.com/Impuls13/Impuls13/blob/main/screen/docker_logo_icon_169251.svg)
 ![NGINX](https://github.com/Impuls13/Impuls13/blob/main/screen/nginx_logo_icon_169915.svg)
@@ -12,5 +12,5 @@
 
 -
 - 📫 How to reach me: ...
-![Telegram]()
+![Telegram](https://github.com/Impuls13/Impuls13/blob/main/screen/telegram_icon_130816.svg) "@impulss304
 
