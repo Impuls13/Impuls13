@@ -1,22 +1,21 @@
 ## Hi, my name is Pavel. 👋
 
-
 ###
 - 🌱 I’m currently learning ...
 ***
-![C](https://github.com/Impuls13/Impuls13/blob/main/screen/c2.svg)
+<p align="center">
+  <img src="https://github.com/Impuls13/Impuls13/blob/main/screen/c2.svg" width="80" height="80" />
+  <img src="https://github.com/Impuls13/Impuls13/blob/main/screen/python_logo_icon_168040.svg" width="80" height="80" />
+  <img src="https://github.com/Impuls13/Impuls13/blob/main/screen/docker_logo_icon_169251.svg" width="80" height="80" />
+  <img src="https://github.com/Impuls13/Impuls13/blob/main/screen/nginx_logo_icon_169915.svg" width="80" height="80" />
+  <img src="https://github.com/Impuls13/Impuls13/blob/main/screen/linux_logo_icon_171222.svg" width="80" height="80" />
+  <img src="https://github.com/Impuls13/Impuls13/blob/main/screen/icons8-bash.svg" width="80" height="80" />
+</p>
 
-![Python](https://github.com/Impuls13/Impuls13/blob/main/screen/python_logo_icon_168040.svg)
-
-![Docker](https://github.com/Impuls13/Impuls13/blob/main/screen/docker_logo_icon_169251.svg)
-
-![NGINX](https://github.com/Impuls13/Impuls13/blob/main/screen/nginx_logo_icon_169915.svg)
-
-![Linux](https://github.com/Impuls13/Impuls13/blob/main/screen/linux_logo_icon_171222.svg)
-
-![BASH](https://github.com/Impuls13/Impuls13/blob/main/screen/icons8-bash.svg)
-
--
-- 📫 How to reach me: ...
-![Telegram](https://github.com/Impuls13/Impuls13/blob/main/screen/icons8-телеграмма-app.svg) "@impulss304
+- 📧 How to reach me: ...
+<p align="center">
+  <a href="https://t.me/impulss304">
+    <img src="https://github.com/Impuls13/Impuls13/blob/main/screen/telegramm-small.svg" width="80" height="80" />
+  </a>
+</p>
 
