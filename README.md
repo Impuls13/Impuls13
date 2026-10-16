@@ -16,7 +16,7 @@
 
 - 📫 How to reach me:  
 <div style="text-align: center;">
-    <a href="https://t.me/impulss304">
+    <a href="">
         <img src="https://github.com/Impuls13/Impuls13/blob/main/screen/telegramm-small.svg" width="40" height="40" alt="Telegram">
     </a>
     <a href=""></a>
