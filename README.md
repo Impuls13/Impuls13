@@ -19,6 +19,6 @@
     <a href="https://t.me/impulss304">
         <img src="https://github.com/Impuls13/Impuls13/blob/main/screen/telegramm-small.svg" width="40" height="40" alt="Telegram">
     </a>
-    <a href="https://t.me/impulss304">@impulss304</a>
+    <a href="https://t.me/impulss304"></a>
 </div>
 
