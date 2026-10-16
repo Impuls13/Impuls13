@@ -1,7 +1,7 @@
 ## Hi, my name is Pavel. 👋
 
 ###
-- 🌱 I’m currently learning ...
+- 🌱 
 ***
 
 <div style="text-align: center;">
